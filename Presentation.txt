@@ -1,0 +1,10 @@
+Bonjour,
+Je me présente Loïc PIRIOU.
+Je travaille chez Enedis en tant qu'Expert Métier dans une agence clientèle. 
+Je suis le cours Gérer votre code avec Git et GitHub car je suis en pleine reconversion professionnelle au sein de mon entreprise.
+A cet effet, j'ai un parcours de cours que je dois suivre.
+L'obtention des certificats de reussite à ses cours est essentielle pour ma reconversion.
+J'espere donc reussir ce premier exercice sur Git.
+Je vous remercie pour l'attention apporté à mon projet.
+Cordialement,
+Loïc PIRIOU
