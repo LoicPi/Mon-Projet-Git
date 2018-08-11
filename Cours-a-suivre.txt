@@ -1,5 +1,5 @@
 4 cours à suivre :
-Apprenez à apprendre
-Gérer votre code avec Git et GitHub
-Découvrez le fonctionnement des algorithmes
-Démarrez votre projet avec Java
+Apprenez à apprendre - Optionnelle
+Gérer votre code avec Git et GitHub - Obligatoire
+Découvrez le fonctionnement des algorithmes - Obligatoire
+Démarrez votre projet avec Java - Obligatoire
